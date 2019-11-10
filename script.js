@@ -19,9 +19,10 @@ function getRandomInt(max) {
 
 function cool() {
   var dict = {
-  0: "Cem is Incapable of being a cool coder",
-  1: "Yiying is God",
+  0: "Qualcomm > Intel",
+  1:  "Hack Club is life ",
   2: "Light Mode is the best"
+  
 };
   textBox =  document.getElementById("text-box2")
   while (true) {
